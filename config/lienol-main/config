@@ -2,4 +2,4 @@ CONFIG_TARGET_ROOTFS_EXT4FS=y
 CONFIG_PACKAGE_luci-nginx=y
 CONFIG_PACKAGE_luci-ssl=n
 CONFIG_PACKAGE_luci-ssl-nginx=y
-  
+CONFIG_PACKAGE_luci-i18n-base-zh-cn=y
